@@ -70,3 +70,39 @@ I spent 14hrs over 1 week just researching this project (I am highly inefficient
 
 Very helpful (Unfinished though): [cncroutersource](http://www.cncroutersource.com)  
 
+## 10/15/2025 - Made a rough design of the CNC  
+
+So for the past 5 days, I have been struggling to design this robot. But before we get into that here are af ew changes to the design:
+
+Alluminum extrusion instead of steel tube: Steel takes so much equipment and Maintainance which I underestimated. Alluminum extrusions have more of an upfront cost, but for my first machine, the ease of assembly and maintenance will outweigh the rigidity of the steel. Besides, my machine Is not too large. 
+
+Fixed gantry: I have no idea if I went over this last time, but I am going to be using a fixed gantry design instead of a moving gantry. I just find fixed gantries much more straightforward and rigid to build even though they take up more space.
+
+linear rails: I decided that even though linear rails cost a LOT, if I plan my budget properly, I should be able to use them. I am not too sure about this right now, but my rough draft does use linear rails currently.
+
+OK, so now back to what I have been doing for the last 5 days. I first started just going straight into modeling something (I dont really have too much cad experience), but it ended up like this.
+
+![Screenshot 2025-10-15 at 7.11.03 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQxMywicHVyIjoiYmxvYl9pZCJ9fQ==--474e4b3ca7b64a16b3de29ee87b406fe9f5f058e/Screenshot%202025-10-15%20at%207.11.03%E2%80%AFPM.png)
+
+Now It might not look too bad, and honestly I dont really remember why I restarted, but I did. V2 looked like this:
+
+![Screenshot 2025-10-15 at 7.12.13 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--7f8c37bba59e64f21e576e464e8f0da52a038223/Screenshot%202025-10-15%20at%207.12.13%E2%80%AFPM.png)
+
+not the most beautiful or thought out design. I think the problem was I just started modeling the final copy without even knowing my design yet.
+
+After some time, I realized that this design was not going to work, so I decided I would restart it AGAIN but this time with the z axis assembly, because that felt like its own little thing seperate from the rest
+
+![Screenshot 2025-10-15 at 7.14.10 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--e74ddb63b6d3fc713c83c628d2628cb4d95080e7/Screenshot%202025-10-15%20at%207.14.10%E2%80%AFPM.png)
+
+Geuss how long this took. 2 hours. Honestly I dont know how the time flew by, but I am guessing it was because every time I added something, I first looked at the price of it on Ali express, then I found a good cad model on grabbed, then I put it into the design without even having a plan for how everything was going to work together. I realized this wouldn't work. and I decided I should design everything on paper first.
+
+Here's the thing, I suck at drawing. I have no sense of dimension. So I decided I would make my rough copy on fusion. This way it was easier to see how everything would work together, before added screws and complex shapes. So, in about 1 hour, I whipped up this very very rough draft.
+
+![Screenshot 2025-10-15 at 7.17.38 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--9a328ac6e8953c41e575855f0abeed98b6d98edc/Screenshot%202025-10-15%20at%207.17.38%E2%80%AFPM.png)
+
+Honestly, even on a design standpoint, this looks probably worse than the others, but the point is I have some idea of how this will look. tomorrow I can refine the rough draft, and then work piece by piece to bring it into a final product. So I am pretty proud of it :)
+
+Ok bye.
+
+  
+
