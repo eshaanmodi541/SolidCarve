@@ -106,3 +106,10 @@ Ok bye.
 
   
 
+## 10/16/2025 - Beefed up the rough draft  
+
+Today I beefed up the cnc router rough draft with some brackets, feet, extra beams, plates, etc. I also switched back to steel because aluminum is way too expensive. I will probably switch back and forth a few times while I am designing though. So far the plan should be to finish the draft tomorrow and finish the final cad over the long weekend my school has.
+
+![Screenshot 2025-10-16 at 6.17.19 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--be57d6a5aa3ad6591f554c07b1976bc292f58516/Screenshot%202025-10-16%20at%206.17.19%E2%80%AFPM.png)
+  
+
