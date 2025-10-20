@@ -113,3 +113,12 @@ Today I beefed up the cnc router rough draft with some brackets, feet, extra bea
 ![Screenshot 2025-10-16 at 6.17.19 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--be57d6a5aa3ad6591f554c07b1976bc292f58516/Screenshot%202025-10-16%20at%206.17.19%E2%80%AFPM.png)
   
 
+## 10/20/2025 - modeled the base frame.  
+
+I turned the rough draft of the base from last journal and turned into something that COULD be built. It's not perfect, and probably more of a rough draft than a final product, but I am pretty happy about how it turned out. I do want to change the piece that connects the ball screw to the plate, but that can wait. Also I didn't put in the ball screw brackets because they top not need any extra pieces and can just be screwed on to the steel tube. 
+
+![Screenshot 2025-10-20 at 11.02.22 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzczNCwicHVyIjoiYmxvYl9pZCJ9fQ==--9d0e69eb4fad1c36b5d92a89499bbc1c19515c2f/Screenshot%202025-10-20%20at%2011.02.22%E2%80%AFAM.png)
+
+![Screenshot 2025-10-20 at 11.02.58 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzczNSwicHVyIjoiYmxvYl9pZCJ9fQ==--120980b9aae2dabbd19f75ca3584c46048effc1f/Screenshot%202025-10-20%20at%2011.02.58%E2%80%AFAM.png)
+  
+
