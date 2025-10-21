@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **SolidCarve**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/398).
-
-
 ## 10/10/2025 - Idea-fication for CNC  
 
 For the past few days I have been searching to see if making a _good_ router under 400 dollars is even possible. It should cut wood very well, and should be able to get decent results with aluminum plates. I only need 18in by 18in cutting space.
@@ -120,5 +116,14 @@ I turned the rough draft of the base from last journal and turned into something
 ![Screenshot 2025-10-20 at 11.02.22 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzczNCwicHVyIjoiYmxvYl9pZCJ9fQ==--9d0e69eb4fad1c36b5d92a89499bbc1c19515c2f/Screenshot%202025-10-20%20at%2011.02.22%E2%80%AFAM.png)
 
 ![Screenshot 2025-10-20 at 11.02.58 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzczNSwicHVyIjoiYmxvYl9pZCJ9fQ==--120980b9aae2dabbd19f75ca3584c46048effc1f/Screenshot%202025-10-20%20at%2011.02.58%E2%80%AFAM.png)
+  
+
+## 10/21/2025 - modeled the z axis  
+
+Topday I modeled the z axis. Honestly, I think I like it more than the base frame since the pieces look less awkward and it came together pretty well. I made it a little too long because the tool doesn't reach all the way down when I raise it up but it is honestly fine. I am moving to the y axis which I hope will be easier
+
+![Screenshot 2025-10-21 at 4.55.23 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--824def7d786526925234b49c3041f7421cf46719/Screenshot%202025-10-21%20at%204.55.23%E2%80%AFPM.png)
+
+![Screenshot 2025-10-21 at 4.55.40 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--fe7b02da3941201006c1472a9a62c0c80c6561e8/Screenshot%202025-10-21%20at%204.55.40%E2%80%AFPM.png)
   
 
