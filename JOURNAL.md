@@ -146,3 +146,10 @@ Sat: revise design and start the repo. Estimate the cost and make changes if the
 Sun: if all goes well, finish the repo and submit for review.
   
 
+## 10/23/2025 - Refined the design  
+
+I made the router reach lower by shortening the y axis. I also added a motor to the y axis but its still pretty rough the bracket. I spent most of the time trying to do FEA (finite element analysis with fusion, but my parts are really messy and complex and it would take too long to do FEA especially as a beginner.
+
+![Screenshot 2025-10-23 at 6.06.05 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--3b90b26f7a75e8d4683bd0e27949008421c51c8b/Screenshot%202025-10-23%20at%206.06.05%E2%80%AFPM.png)
+  
+
