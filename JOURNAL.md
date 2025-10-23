@@ -127,3 +127,22 @@ Topday I modeled the z axis. Honestly, I think I like it more than the base fram
 ![Screenshot 2025-10-21 at 4.55.40 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--fe7b02da3941201006c1472a9a62c0c80c6561e8/Screenshot%202025-10-21%20at%204.55.40%E2%80%AFPM.png)
   
 
+## 10/22/2025 - finished V1 of the router  
+
+Today I built the Y axis and finished the V1 of the CNC router. It is looking pretty good but there are a few things I want to improve on. First, I forgot to add the motor on the axis, I can probably reuse the one on the z axis. Also the router does not reach all the way to the wasteboard, I will fix by moving the router down on the mount or just shortening the Y axis.I also have not even started on the electronics, and I have no idea what I will do.
+
+Here are the pictures:
+
+![Screenshot 2025-10-22 at 8.22.45 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDU4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--608a1a5cc87b17ad7a5312281de3f89ad8046b92/Screenshot%202025-10-22%20at%208.22.45%E2%80%AFPM.png)
+
+![Screenshot 2025-10-22 at 8.23.03 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDU4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--6833b951a6bc3fc3bb55d7f41ed7c0934eed6e2f/Screenshot%202025-10-22%20at%208.23.03%E2%80%AFPM.png)
+
+
+Here is the plan for this week (I want to get the repo and design done)
+
+Thu: add screws and details to all the components, run FEM to find weak points (first time)
+Fri: go over the design, think about electronics, post to edit, cnczone, and cncroutersource for feedback
+Sat: revise design and start the repo. Estimate the cost and make changes if there are issues.
+Sun: if all goes well, finish the repo and submit for review.
+  
+
