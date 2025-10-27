@@ -153,3 +153,19 @@ I made the router reach lower by shortening the y axis. I also added a motor to 
 ![Screenshot 2025-10-23 at 6.06.05 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--3b90b26f7a75e8d4683bd0e27949008421c51c8b/Screenshot%202025-10-23%20at%206.06.05%E2%80%AFPM.png)
   
 
+## 10/27/2025 - a few changes...  
+
+So there are a few changes to the project.
+
+1: the cnc machine I have access to doesn't cut steel. SO I will have to use alluminum which will deffinetly be a bottleneck for the steel tubes
+2: This one kind of solves #1, but there are a lot of local welders on Facebook marketplace who look like they would do a decent job for a decent price. I can use the weak alluminum to hold the frame in place and then weld everything together
+3: I started working on the repo. In hindsight I should have done this earlier, but it's prob fine.
+4: BOLTS ARE SOOO EXPENSIVE. Turns out buying 100 70mm M10 bolts takes up half the budget on its own. I only allocated around 40 dollars for bolts but since I am welding the frame and brackets anyways, I was thinking I can use 10 bolts to slowly bolt different parts of the frame together, weld it, and then take the bolts off and boil in another bracket. I don't know if any welders would do such a custom project for less than 50, but I don't care too mu8ch about the quality of the welds, I just need someone who can weld.
+5: almost finished the BOM. I just need to get quotes on the steel parts and plates. Right now I am looking at two industrial places near me who sell stuff and one random person on Facebook marketplace who is selling what I need.
+6: literally in the middle of writing this, I realized you can not weld alluminum and steel together. duh. So that means that my brackets will only be used for aligning the tubes, then I will remove them. I feel that impedes the strength though, because the brackets protected against like bending back and forth forces on the gantry. but there is a solution... Since I only really care about the 4 big gantry plates, and maybe 4 frame plates. That's not a lot of metal. And since the metal is reletively thin, an angle grinder aught to do the job for some rough shapes. I can finish off with a printed template and a drill press to make a less accurate, but still good bracket. I will have to se if there is extra space in my budget though... 
+
+here are renders of the cnc (first time rendering)
+![CNC V1 v3](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--e09e22bd4d1da40f5dfeb44c6ab19384a8578ad0/CNC%20V1%20v3.png)
+![CNC_V1_2025-Oct-26_02-11-45PM-000_CustomizedView24121287854](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA1NywicHVyIjoiYmxvYl9pZCJ9fQ==--d54581ae3d2d3ed9614c95c35d638e19a6326418/CNC_V1_2025-Oct-26_02-11-45PM-000_CustomizedView24121287854.png)
+   
+
