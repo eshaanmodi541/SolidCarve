@@ -169,3 +169,18 @@ here are renders of the cnc (first time rendering)
 ![CNC_V1_2025-Oct-26_02-11-45PM-000_CustomizedView24121287854](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA1NywicHVyIjoiYmxvYl9pZCJ9fQ==--d54581ae3d2d3ed9614c95c35d638e19a6326418/CNC_V1_2025-Oct-26_02-11-45PM-000_CustomizedView24121287854.png)
    
 
+## 10/29/2025 - My last journal before submitting.  
+
+Hello this is my last journal before submitting. I polished up the repo and everything. But the main reason for this journal is my plan for the next 2 - 3 weeks which I hope to finish the cnc.
+
+week 1: get nuts and bolts from scrap yard, order everything, cut holes in tubes.
+week 2: start receiving stuff, bolt together frame, assemble the z axis
+week 3: get everything and assemble together. 
+
+Let's see how it goes. This is definitely going to be a build-heavy project...
+
+Here is schematic of electronics (using Tb6600) 
+
+![Screenshot 2025-10-29 at 5.33.43 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjU1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--7287df165393137366d55b591d7a3e476306b780/Screenshot%202025-10-29%20at%205.33.43%E2%80%AFPM.png)
+  
+
