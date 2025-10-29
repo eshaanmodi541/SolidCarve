@@ -19,7 +19,7 @@ This project is not yet completed, but if you would like to take inspiration or 
 ## Electronics
 
 Don't mind the worng driver name. I could not find a TB6600 on Fritzing quick enough. Also just imagine there is a power supply powering the drivers fritzing was bugging out.
-![]()
+![](https://github.com/eshaanmodi541/SolidCarve/blob/e06099185f56995d339af6f93a862d15030a6b68/IMAGES/CNC%20Breadboard.png)
 
 ## BOM
 
