@@ -184,3 +184,10 @@ Here is schematic of electronics (using Tb6600)
 ![Screenshot 2025-10-29 at 5.33.43 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjU1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--7287df165393137366d55b591d7a3e476306b780/Screenshot%202025-10-29%20at%205.33.43%E2%80%AFPM.png)
   
 
+## 11/1/2025 - fixed BOM  
+
+I know I said last time it was the last journal before submitting, but I realized as soon as I went to the actual checkout page in Ali express, it jumped the price up around 50 bucks. I also was looking around ebay and saw a killed deal on some motors. so I decided to redo the BOM. Well, I did it. some changes are upgrading to HGR20 (good price on ebay), using nema 23 on all axis, and using ripoff makita router.
+
+![Screenshot 2025-11-01 at 5.25.24 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzU0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--be4a83b513da3fe7fe5f5b974b01f1e0409b58f2/Screenshot%202025-11-01%20at%205.25.24%E2%80%AFPM.png)
+  
+
