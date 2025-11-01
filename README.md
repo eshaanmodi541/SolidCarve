@@ -2,7 +2,7 @@
 
 ![](https://github.com/eshaanmodi541/SolidCarve/blob/996ff6820cfa5047ebaaeb4d239864aec47d669c/CAD/CNC%20V1%20v3.png)
 
-SolidCrave is a 3-Axis CNC router capable of wood and alluminum. With a steel tube frame, it is cheap and rigid. The goal of this project was to make Alluminum cutting more accessible for a great price. Coming in at around $400 the welded and/or bolted frame and fixed gantry approach makes for a very rigid machine with a convinient build area of 450mm x 400mm.
+SolidCrave is a 3-Axis CNC router capable of wood and alluminum. With a steel tube frame, it is cheap and rigid. The goal of this project was to make Alluminum cutting more accessible for a great price. Coming in at around $450 the welded and/or bolted frame and fixed gantry approach makes for a very rigid machine with a convinient build area of 450mm x 400mm.
 
 ## Quick facts
 
