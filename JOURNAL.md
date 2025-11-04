@@ -191,3 +191,34 @@ I know I said last time it was the last journal before submitting, but I realize
 ![Screenshot 2025-11-01 at 5.25.24 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzU0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--be4a83b513da3fe7fe5f5b974b01f1e0409b58f2/Screenshot%202025-11-01%20at%205.25.24%E2%80%AFPM.png)
   
 
+## 11/4/2025 - A little update on STEEL  
+
+So if you looked at the box in my last journal, you will notice that it does not include the steel tube and plate necessary for the frame. as well as the bolts, spoil board, and tapping set
+
+well, all of these things I am getting by myself out of the budget. The bolts is for 5 bucks on Facebook marketplace, the spoilbourd is also a few bucks on fb. The real challenge was getting the steel. I think I have found a good place for steel right now, but my quest for steel goes back many, many moons ago.
+
+After I realized I wanted to use steel tubes a few journals ago, I started looking on Home Depot and Lowes for affordable steel. Wayyyyy too expensive.
+
+I went down a manufacturing rabbit hole, finding steel suppliers near me. I found one and I was super excited, I thought the steel would be really really cheap because they were not shipping it. But, the total cost was 150 dollars. :(
+
+I went on reddit, a lot of people were talking about second hand steel from scrap yards or drops (extra pieces when you cut to size) from steel manufacturers. I thought scrapyards was the way to go, I reached out to two near me
+
+One couldn't sell material, they only bought it
+
+One had no idea if they had steel tube and it was too far for me to check
+
+So my next option was place where there could be offcuts, mostly fabrication shops. No one replied
+
+I was running out of options so I started going on Facebook marketplace. Nothing. then I went on craigslist and searched for steel tubing after a lot of scrolling I found a steel tube for 2 dollars per foot but the steel was very rusted and it was 2.25" x 2.25" which wasn't the best.
+
+So I went back to searching through steel suppliers near me, asked a quote from one. The quote came out to 130 dollars, but then I realized, they probably carried a lot of drops from their cut to size feature. I reached out and they said they did, but I would have to come to see the sizes.
+
+It is one hour away
+
+But the good news is there are a few other stores nearby, I think also a metal supermarkets store. 
+
+Also I submitted the second time and the feedback was to include firmware. I asked support and they said a requirement.txt was enough since I was using a preexisting cnc firmware: fluidNC. I dont know how I am going to add firmware, so...
+
+![sasfasd](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM5NywicHVyIjoiYmxvYl9pZCJ9fQ==--c30be76bbc012abd4569ae200cac225d7d3c9099/sasfasd.png)
+  
+
